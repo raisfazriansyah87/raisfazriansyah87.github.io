@@ -140,8 +140,10 @@ var script_url=HOST+"/feeds/posts/default";bcd140526_index_label&&(script_url+="
 <br /><b style="font-family: arial;"><a href="https://www.ingganinggra.my.id/search?q=feliciaagatha&m=1" rel="nofollow" target="_blank">《First Page《Prev&nbsp;&nbsp;1-2-3-4-5-6-7...&nbsp; Next》Last Page》</a></b><br /><br />
 
 
- <div loading="lazy" width"100%" height="200px" overflow="auto" >
+ <div loading="lazy" width"100%" height="200px" overflow="auto" > 
+	 
 <i>ads by adsterra</i>
+
 <script type="text/javascript">
 	atOptions = {
 		'key' : '372c305fe9278ddc0e2a01420d27b80e',
@@ -152,6 +154,7 @@ var script_url=HOST+"/feeds/posts/default";bcd140526_index_label&&(script_url+="
 	};
 	document.write('<scr' + 'ipt type="text/javascript" src="//techniciancocoon.com/372c305fe9278ddc0e2a01420d27b80e/invoke.js"></scr' + 'ipt>');
 </script>
+ 
 <script type="text/javascript">
 	atOptions = {
 		'key' : '20cc5501ffce3b330a154a03d6641747',
