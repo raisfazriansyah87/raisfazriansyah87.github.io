@@ -141,7 +141,7 @@ var script_url=HOST+"/feeds/posts/default";bcd140526_index_label&&(script_url+="
 
 
  <div loading="lazy" width"100%" height="200px" overflow="auto" >
-<i>ads by adsterra<i>
+<i>ads by adsterra</i>
 <script type="text/javascript">
 	atOptions = {
 		'key' : '372c305fe9278ddc0e2a01420d27b80e',
@@ -276,7 +276,7 @@ var script_url=HOST+"/feeds/posts/default";bcd140526_index_label&&(script_url+="
 		'params' : {}
 	};
 	document.write('<scr' + 'ipt type="text/javascript" src="//techniciancocoon.com/4744ff43679b4ac544b6c6fef77ed3ff/invoke.js"></scr' + 'ipt>');
-</script></i></i></div>
+</script></div>
 	
 
 
