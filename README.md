@@ -139,6 +139,129 @@ var script_url=HOST+"/feeds/posts/default";bcd140526_index_label&&(script_url+="
 
 <br /><b style="font-family: arial;"><a href="https://www.ingganinggra.my.id/search?q=feliciaagatha&m=1" rel="nofollow" target="_blank">《First Page《Prev&nbsp;&nbsp;1-2-3-4-5-6-7...&nbsp; Next》Last Page》</a></b><br /><br />
 
+<script type="text/javascript">
+	atOptions = {
+		'key' : '48761db0c749c8fd153cfa18a5f86793',
+		'format' : 'iframe',
+		'height' : 250,
+		'width' : 300,
+		'params' : {}
+	};
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://bandageretaliateemail.com/48761db0c749c8fd153cfa18a5f86793/invoke.js"></scr' + 'ipt>');
+</script>
+<br /><script type="text/javascript">
+	atOptions = {
+		'key' : 'd32df3e3ca8d58d11a357c933fe5dbb5',
+		'format' : 'iframe',
+		'height' : 90,
+		'width' : 728,
+		'params' : {}
+	};
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://bandageretaliateemail.com/d32df3e3ca8d58d11a357c933fe5dbb5/invoke.js"></scr' + 'ipt>');
+</script>
+<br />
+<script type="text/javascript">
+	atOptions = {
+		'key' : 'e2e6579704057dd52fec53047e60ccfc',
+		'format' : 'iframe',
+		'height' : 600,
+		'width' : 160,
+		'params' : {}
+	};
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://bandageretaliateemail.com/e2e6579704057dd52fec53047e60ccfc/invoke.js"></scr' + 'ipt>');
+</script><br />
+<script type="text/javascript">
+	atOptions = {
+		'key' : 'b3fe4a317e8a53be163a8dbb8a5c171d',
+		'format' : 'iframe',
+		'height' : 50,
+		'width' : 320,
+		'params' : {}
+	};
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://bandageretaliateemail.com/b3fe4a317e8a53be163a8dbb8a5c171d/invoke.js"></scr' + 'ipt>');
+</script><br />
+<script type='text/javascript' src='//bandageretaliateemail.com/38/cb/db/38cbdbc737d43245ac8911553eba624d.js'></script>
+<script type="text/javascript">
+	atOptions = {
+		'key' : 'de24a9067ecc1171d65a1fa4bdfbd15d',
+		'format' : 'iframe',
+		'height' : 60,
+		'width' : 468,
+		'params' : {}
+	};
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://bandageretaliateemail.com/de24a9067ecc1171d65a1fa4bdfbd15d/invoke.js"></scr' + 'ipt>');
+</script>
+<br />
+<script type="text/javascript">
+	atOptions = {
+		'key' : 'bea3ddf51e6e2b03d8b900371e9802ce',
+		'format' : 'iframe',
+		'height' : 300,
+		'width' : 160,
+		'params' : {}
+	};
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://bandageretaliateemail.com/bea3ddf51e6e2b03d8b900371e9802ce/invoke.js"></scr' + 'ipt>');
+</script>
+<br />
+<script type="text/javascript">
+	atOptions = {
+		'key' : 'e78b394fe0ee3603093a964a1f38668d',
+		'format' : 'iframe',
+		'height' : 50,
+		'width' : 320,
+		'params' : {}
+	};
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://buzzdancing.com/e78b394fe0ee3603093a964a1f38668d/invoke.js"></scr' + 'ipt>');
+</script><script type="text/javascript">
+	atOptions = {
+		'key' : '1e3e38cd33dba651d5fc0612fbbf5c6f',
+		'format' : 'iframe',
+		'height' : 60,
+		'width' : 468,
+		'params' : {}
+	};
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://buzzdancing.com/1e3e38cd33dba651d5fc0612fbbf5c6f/invoke.js"></scr' + 'ipt>');
+</script><script type='text/javascript' src='//buzzdancing.com/4d/3b/2f/4d3b2f5c1c9ec9c3177bd395ec59f5fb.js'></script>
+<script type="text/javascript">
+	atOptions = {
+		'key' : '1c4c79b7de528c17f7a6b47742b22260',
+		'format' : 'iframe',
+		'height' : 300,
+		'width' : 160,
+		'params' : {}
+	};
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://buzzdancing.com/1c4c79b7de528c17f7a6b47742b22260/invoke.js"></scr' + 'ipt>');
+</script><script type="text/javascript">
+	atOptions = {
+		'key' : 'df9824d0fe4c5df783450819320ae8de',
+		'format' : 'iframe',
+		'height' : 600,
+		'width' : 160,
+		'params' : {}
+	};
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://buzzdancing.com/df9824d0fe4c5df783450819320ae8de/invoke.js"></scr' + 'ipt>');
+</script>
+<script type="text/javascript">
+	atOptions = {
+		'key' : '2f264965ba0f8de9ced12fe551641a8a',
+		'format' : 'iframe',
+		'height' : 90,
+		'width' : 728,
+		'params' : {}
+	};
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://buzzdancing.com/2f264965ba0f8de9ced12fe551641a8a/invoke.js"></scr' + 'ipt>');
+</script>
+<script type="text/javascript">
+	atOptions = {
+		'key' : '3fae43af594f511b51e166fbe4c537ba',
+		'format' : 'iframe',
+		'height' : 250,
+		'width' : 300,
+		'params' : {}
+	};
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://buzzdancing.com/3fae43af594f511b51e166fbe4c537ba/invoke.js"></scr' + 'ipt>');
+</script>
+
 
 
 
